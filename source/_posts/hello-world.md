@@ -1,38 +1,22 @@
 ---
 title: Hello World
+date: 2015-11-06
+category: web前端
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 开始
 
-### Create a new post
+在自己买的域名和租用的服务器到期后，不想在用WordPress来搭建自己的个人博客，
+在这个时候看到可以通过github page创建静态博客，于是就在网上找了很多相关资料。
+在对比了Hexo以及Jekyll等框架之后，最终选择了Hexo来搭建自己的page。
 
-``` bash
-$ hexo new "My New Post"
-```
+曾经在网上看到这么一段话，发现挺有道理的：
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+> 第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写。
+> 第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客。
+> 第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。
 
-### Run server
+作为一个博客新人，折腾自己的独立博客也算是闲暇时间的一种消遣。
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+博客的主题是自己从网上找了好多，都没有多少满意的，所以根据常逛的网站，自己设计自己开发。
+详情请看[heredom](https://github.com/kaketsu/Heredom)
